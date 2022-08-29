@@ -1,0 +1,4 @@
+{
+    "spec_files": ["index.test.ts"],
+    "helpers": ["reporter.ts"]
+}
